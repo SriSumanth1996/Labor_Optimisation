@@ -1,2 +1,2 @@
 # Labor_Optimisation
-This repository hosts the mathematical optimisation of labor.
+This repository hosts my mathematical work on optimisation of labor.
